@@ -1,0 +1,11 @@
+CODERVOX — READY-TO-CONNECT WEBSITE
+
+Included:
+- index.html: responsive CODERVOX social-network frontend
+- supabase-schema.sql: database, security policies, storage bucket and realtime setup
+- README.md: setup and deployment guide
+
+IMPORTANT:
+This is a ready-to-connect multi-user website package. It is not yet connected to a live database or deployed online because that requires a Supabase project in your account and its public Project URL + Publishable/anon key.
+
+Never share your Supabase database password, service_role key, or any secret key.
